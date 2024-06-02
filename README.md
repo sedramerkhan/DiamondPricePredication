@@ -100,6 +100,13 @@ Hyperparameter Tuning: Grid search with cross-validation further improves the mo
 
 Feature Engineering: Additional feature engineering, such as polynomial features or interaction terms, could potentially improve model performance.
 
+Team Members : 
+- Sedra merkhan : https://github.com/sedramerkhan
+-  Heba Ammar : https://github.com/Hiba-Ammar
+-  Ahmad Sadik : https://github.com/AhmadSadik1
+-  Ali Alawneh : https://github.com/alikd99
+
+
 Advanced Models: Consider using advanced models like Gradient Boosting or Neural Networks for potentially better performance.
 
 Regularization: Regularization techniques like L1 and L2 should be explored more thoroughly to handle multicollinearity and overfitting.

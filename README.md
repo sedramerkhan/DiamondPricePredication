@@ -21,8 +21,6 @@ Model Comparison
 
 Hyperparameter Tuning
 
-
-
 ### Data Preprocessing:
 
 - Dropping Duplicates: Duplicate rows are identified and removed.
@@ -41,11 +39,11 @@ Hyperparameter Tuning
 
 ### Handling Categorical Variables
 
-Categorical variables are converted to dummy/indicator variables using pd.get_dummies.
+Categorical variables are converted to numiracal values by mapping each value with a number.
 
 ### Outlier Detection and Removal
 
-A custom function is defined to remove outliers based on the Interquartile Range (IQR) method.
+for each column outliers are determined according to boxplot and removed.
 
 ### Model Training and Evaluation
 

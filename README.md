@@ -73,13 +73,13 @@ Random Forest Hyperparameter Tuning: A grid search with cross-validation is used
 
 XGBoost Model: An XGBoost Regressor is also trained and evaluated.
 
-**Observations:**
+## Observations:
 - Data Quality: Initial data exploration and preprocessing steps ensure that the dataset is clean and ready for modeling.
 - Feature Engineering: The creation of the volume feature adds a new dimension for the model to learn from.
 - Model Performance: The Random Forest Regressor outperforms other models in terms of R2 score, making it a suitable choice for this regression task.
 - Hyperparameter Tuning: Grid search with cross-validation further improves the model performance, highlighting the importance of fine-tuning.
 
-**Recommendations:**
+## Recommendations:
 - Feature Engineering: Additional feature engineering, such as polynomial features or interaction terms, could potentially improve model performance.
 - Advanced Models: Consider using advanced models like Gradient Boosting or Neural Networks for potentially better performance.
 - Regularization: Regularization techniques like L1 and L2 should be explored more thoroughly to handle multicollinearity and overfitting.

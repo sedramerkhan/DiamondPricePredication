@@ -1,4 +1,4 @@
-# Diamond Price Detection
+# Diamond Price Prediction
 
 ## Overview:
 

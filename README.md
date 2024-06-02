@@ -105,3 +105,9 @@ Advanced Models: Consider using advanced models like Gradient Boosting or Neural
 Regularization: Regularization techniques like L1 and L2 should be explored more thoroughly to handle multicollinearity and overfitting.
 
 Automated EDA Tools: Utilize automated EDA tools to expedite the data exploration process.
+
+Team Members : 
+- Sedra merkhan : https://github.com/sedramerkhan
+-  Heba Ammar : https://github.com/Hiba-Ammar
+-  Ahmad Sadik : https://github.com/AhmadSadik1
+-  Ali Alawneh : https://github.com/alikd99

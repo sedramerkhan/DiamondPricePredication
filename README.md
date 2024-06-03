@@ -9,7 +9,7 @@ based on various features. The process involves data preprocessing, exploratory 
 
 Data Preprocessing
 
-Exploratory Data Analysis (EDA)
+Exploratory Data Analysis(EDA)
 
 Handling Categorical Variables
 

@@ -85,6 +85,11 @@ XGBoost Model: An XGBoost Regressor is also trained and evaluated.
 - Regularization: Regularization techniques like L1 and L2 should be explored more thoroughly to handle multicollinearity and overfitting.
 - Automated EDA Tools: Utilize automated EDA tools to expedite the data exploration process.
 
+## Tech Stack
+**Data & Viz**: pandas, numpy, seaborn, matplotlib
+
+**Machine Learning**: scikit-learn, xgboost
+
 ## Team Members : 
 * [Sedra Merkhan](https://github.com/sedramerkhan)
 * [Hiba Ammar](https://github.com/Hiba-Ammar)
